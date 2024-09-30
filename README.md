@@ -1,5 +1,6 @@
 # GiftpoolTCUE
 Código fuente original de la aplicación Giftpool. Desarrollada dentro del plan TCUE 2023/2024.
+
 **Construcción de la aplicación:** Con Docker instalado, el primer paso es situarse en la carpeta del proyecto
 y abrir un terminal en ella.
 
