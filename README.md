@@ -7,8 +7,7 @@ Una vez dentro, el primer comando a ejecutar es: _docker-compose build_. Este co
 cargado de leer el contenido del fichero _compose.yaml_ y construir las imágenes de los servicios espe-
 cificados en este fichero.
 
-Cuando la ejecución de este comando haya finalizado, procedemos con el comando: _docker-com-
-pose up_. Una vez llegados aquí, la aplicación está completamente desplegada y podemos acceder a ella desde
+Cuando la ejecución de este comando haya finalizado, procedemos con el comando: _docker-compose up_. Una vez llegados aquí, la aplicación está completamente desplegada y podemos acceder a ella desde
 navegador.
 
 
