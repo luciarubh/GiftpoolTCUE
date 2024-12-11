@@ -4,9 +4,7 @@ Código fuente original de la aplicación Giftpool. Desarrollada dentro del plan
 **Construcción y ejecución de la aplicación:** Con Docker instalado, el primer paso es situarse en la carpeta del proyecto
 y abrir un terminal en ella.
 
-Una vez dentro, el primer comando a ejecutar es: _docker-compose build_. Este comando es el en-
-cargado de leer el contenido del fichero _compose.yaml_ y construir las imágenes de los servicios espe-
-cificados en este fichero.
+Una vez dentro, el primer comando a ejecutar es: _docker-compose build_. Este comando es el encargado de leer el contenido del fichero _compose.yaml_ y construir las imágenes de los servicios especificados en este fichero.
 
 Cuando la ejecución de este comando haya finalizado, procedemos con el comando: _docker-compose up_. Una vez llegados aquí, la aplicación está completamente desplegada y podemos acceder a ella desde
 navegador.
